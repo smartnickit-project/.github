@@ -1,6 +1,6 @@
 # SmartnicKit
 
-<img src="fig/smartnickit.jpg" style="width:50%; height:50%;">
+<img src="https://github.com/smartnickit-project/.github/blob/main/profile/fig/smartnickit.jpg" style="width:50%; height:50%;">
 
 SmartnicKit is a rust-based SDK for [BlueField-series SmartNICs](https://www.nvidia.com/en-us/networking/products/data-processing-unit/).
 
